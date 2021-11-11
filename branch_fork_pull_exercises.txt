@@ -1,0 +1,6 @@
+This is the starter file for our activity today.
+
+Your task by the end of our exercise is to make a pull request on the exit-ticket branch of this repository that includes a link to the branch you made on your fork of this one.
+
+
+
