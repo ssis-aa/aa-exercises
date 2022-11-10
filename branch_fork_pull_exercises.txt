@@ -59,8 +59,8 @@ Link: https://github.com/IsNotAvaliable/aa-exercises/tree/eveturtle
 
 
 //*******************************************************************//
-Name:
-Link:
+Name: Dongjae
+Link: https://github.com/dongdongthedingdong/aa-exercises/tree/aboutmail
 //*******************************************************************//
 
 
