@@ -6,7 +6,7 @@ Your task by the end of our exercise is to make a pull request on the exit-ticke
 Add your link to the branch in one of the spaces below.
 
 //*******************************************************************//
-Name:
+Name: 
 Link: 
 //*******************************************************************//
 
@@ -59,8 +59,8 @@ Link:
 
 
 //*******************************************************************//
-Name:
-Link:
+Name: Dongjae
+Link: https://github.com/dongdongthedingdong/aa-exercises/tree/aboutmail
 //*******************************************************************//
 
 
