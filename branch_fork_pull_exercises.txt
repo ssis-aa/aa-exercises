@@ -53,8 +53,8 @@ Link:
 
 
 //*******************************************************************//
-Name:
-Link:
+Name: William J. Nguyen
+Link: https://github.com/IsNotAvaliable/aa-exercises/tree/eveturtle
 //*******************************************************************//
 
 
