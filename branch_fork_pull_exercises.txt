@@ -59,8 +59,8 @@ Link:
 
 
 //*******************************************************************//
-Name:
-Link:
+Name: Dongjae
+Link: https://github.com/dongdongthedingdong/aa-exercises/tree/aboutmail
 //*******************************************************************//
 
 
